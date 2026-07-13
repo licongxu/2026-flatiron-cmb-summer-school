@@ -15,17 +15,17 @@ The school features a mixture of presentation-based lectures and notebook-based 
 ### Notebooks
 <!-- Add links to presentations and videos -->
 - [Introduction to Fast Discrete Fourier Transforms (FFTs/DFTs)](https://github.com/flatironinstitute/2026-flatiron-cmb-summer-school/blob/main/notebooks/Intro_to_FFTs.ipynb) - Zach Atkins (U Penn)
-- Simulating the CMB - Susanna Azzoni (Princeton)
-- Simulating SZ and Point Sources - Mat Madhavacheril (U Penn)
+- [Simulating the CMB](https://github.com/flatironinstitute/2026-flatiron-cmb-summer-school/blob/main/notebooks/CMB_School_Simulating_the_CMB.ipynb) - Susanna Azzoni (Princeton)
+- [Simulating SZ and Point Sources](https://github.com/flatironinstitute/2026-flatiron-cmb-summer-school/blob/main/notebooks/CMB_Simulating_SZ_and_Sources.ipynb) - Mat Madhavacheril (U Penn)
 - [Modeling Instrumental Noise and Beams](https://github.com/flatironinstitute/2026-flatiron-cmb-summer-school/blob/main/notebooks/CMB_School_modeling_noise_and_beams.ipynb) - Nadia Dachlythra (Università degli Studi di Milano-Bicocca)
 - [Power Spectrum Analysis](https://github.com/flatironinstitute/2026-flatiron-cmb-summer-school/blob/main/notebooks/CMB_School_Power_Spectrum_Analysis.ipynb) - Merry Duparc (Université Paris-Saclay)
-- [CMB Polarization](https://github.com/flatironinstitute/2026-flatiron-cmb-summer-school/blob/main/notebooks/CMB_School_Power_Spectrum_Analysis.ipynb) - Simone Aiola (CCA/Simons Foundation)
+- [CMB Polarization](https://github.com/flatironinstitute/2026-flatiron-cmb-summer-school/blob/main/notebooks/CMB_School_CMB_Polarization.ipynb) - Simone Aiola (CCA/Simons Foundation)
 - [Lensing Simulation](https://github.com/flatironinstitute/2026-flatiron-cmb-summer-school/blob/main/notebooks/CMB_School_Lensing_Simulation.ipynb) - Irene Abril Cabezas (University of Cambridge)
 - [Lensing Reconstruction](https://github.com/flatironinstitute/2026-flatiron-cmb-summer-school/blob/main/notebooks/CMB_School_Lensing_Reconstruction.ipynb) - Irene Abril Cabezas (University of Cambridge)
 - [CMB Mapmaking](https://github.com/flatironinstitute/2026-flatiron-cmb-summer-school/blob/main/notebooks/CMB_School_Mapmaking.ipynb) - Simone Aiola (CCA/Simons Foundation)
 - [Machine Learning and Simulations](https://github.com/flatironinstitute/2026-flatiron-cmb-summer-school/blob/main/notebooks/CMB_School_Machine_Learning.ipynb) - Adrian Bayer (CCA/Simons Foundation)
 - [Real Experiment Beams](https://github.com/flatironinstitute/2026-flatiron-cmb-summer-school/blob/main/notebooks/CMB_Beam_Systematics.ipynb) - Nadia Dachlythra (Università degli Studi di Milano-Bicocca)
-- B-modes - Susanna Azzoni (Princeton)
+- [B-modes](https://github.com/flatironinstitute/2026-flatiron-cmb-summer-school/blob/main/notebooks/CMB_School_B_modes.ipynb) - Susanna Azzoni (Princeton)
 - [Y-map and Cross-Correlations](https://github.com/flatironinstitute/2026-flatiron-cmb-summer-school/blob/main/notebooks/CMB_School_ymap.ipynb) - Ola Kusiak (University of Cambridge)
 - [Pixell and ACT Data](https://github.com/simonsobs/pixell_tutorials) - Zach Atkins (U Penn) 
 
